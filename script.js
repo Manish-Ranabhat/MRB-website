@@ -72,7 +72,7 @@ $(document).ready(function(){
 
     var typed = new Typed(".typing", {
 
-        strings: [" Software Developer", "Video-Editor", "Designer", "Freelancer"],
+strings: ["Web Developer", "IT Support", "Cloud Enthusiast", "AI Learner"],
 
         typeSpeed: 100,
 
@@ -86,7 +86,7 @@ $(document).ready(function(){
 
     var typed = new Typed(".typing-2", {
 
-        strings: ["Software-Developer", "Video-Editor", "Designer", "Freelancer"],
+strings: ["Web Developer", "IT Support", "Cloud Enthusiast", "AI Learner"],
 
         typeSpeed: 100,
 
